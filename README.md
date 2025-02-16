@@ -1,16 +1,7 @@
-# notes_app
+# Note App Cho Người Mới Bắt Đầu Học
 
-A new Flutter project.
+Dự án đầy đủ CRUD APP
 
-## Getting Started
+## Khuyến khích người mới học nên học theo dự án này để thành thạo những thứ cơ bản 
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### by Huu Nhien - kingofpro1410@gmail.com
